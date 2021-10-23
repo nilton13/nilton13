@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nilton13!
         
   🔭 Atuamente trabalhando com Desenvolvimento Full-Stack
-- 🌱 Estuadando NextJs / TypeScript
+- 🌱 Estudando NextJs / TypeScript
 - 📫 Contate-me pelo email: jnvlfilho@hotmail.com
 
 <div align="center">
