@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Nilton13!
         
   🔭 Atuamente trabalhando com Desenvolvimento Full-Stack
-- 🌱 Estudando NextJs / TypeScript
-- 📫 Contate-me pelo email: jnvlfilho@hotmail.com
+- 🌱 Estudando Flutter / Java-SpringBoot
+- 📫 Contate-me pelo email: nfdeveloper@gmail.com
 
 <div align="center">
   <a href="https://github.com/nilton13">
