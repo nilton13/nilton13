@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nilton13!
         
   🔭 Atuamente trabalhando com Desenvolvimento Full-Stack
-- 🌱 Estudando Flutter / Java-SpringBoot
+- 🌱 Estudando AWS / Microservices NodeJS / TDD
 - 📫 Contate-me pelo email: nfdeveloper04@gmail.com
 
 <div align="center">
